@@ -19,7 +19,8 @@ I'm an extremely enthusiastic software engineering student with experience in Py
 - 🔭 I’m currently working on ... Python, SQL, HTML
 - 🌱 I’m currently learning ...Python, SQL, HTML
 - 👯 I’m looking to collaborate on any projects where I can make a valid contribution
-- 💬 Ask me about ... If you need a contributor to your projects
+- 💬 Ask me about ... If you need a contributor for your projects
+- ⚡ Fun fact: I love climbing, running, F1 and coding
 - 📫 How to reach me: ...(https://www.linkedin.com/in/jorden-b-11a871252/)
 - 📝[CV](https://github.com/Jordenproject/Jordenproject/files/10611456/T13.CV.docx)
 
