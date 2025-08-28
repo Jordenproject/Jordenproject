@@ -11,7 +11,7 @@
 ### Hi there 👋
 
 
-I'm an extremely enthusiastic software engineering student with experience in Python. I have created several projects that I am showcasing on Github. I welcome the opportunity to work on new projects and build my coding skills.  Additionally I'm looking to connect with like-minded coders and collaborate on some projects.
+I'm an extremely enthusiastic software engineering student with experience in Python and C#. I have created several projects that I am showcasing on Github. I welcome the opportunity to work on new projects and build my coding skills.  Additionally I'm looking to connect with like-minded coders and collaborate on some projects.
  
 
 
