@@ -21,7 +21,7 @@ I'm an extremely enthusiastic software engineering student with experience in Py
 - 👯 I’m looking to collaborate on any projects where I can make a valid contribution
 - 💬 Ask me about ... If you need a contributor for your projects
 - ⚡ Fun fact: I love climbing, running, F1 and coding
-- 📫 How to reach me: ...(https://www.linkedin.com/in/jorden-b-11a871252/)
+- 📫 How to reach me: ...(https://www.linkedin.com/in/jorden-brown-11a871252/)
 - 📝[CV][Jorden_Brown_CV.pdf](https://github.com/user-attachments/files/17597254/Jorden_Brown_CV.pdf)
 
 
